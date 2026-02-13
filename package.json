@@ -1,0 +1,15 @@
+{
+  "name": "johnmayo-com-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare-content": "node scripts/generate-content.mjs",
+    "dev": "npm run prepare-content && astro dev",
+    "build": "npm run prepare-content && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

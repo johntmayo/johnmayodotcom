@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHero from "../components/PageHero.astro";
+import ContentSection from "../components/ContentSection.astro";
+import ImageGallery from "../components/ImageGallery.astro";
+import PageLinks from "../components/PageLinks.astro";
+
+import data from "../data/pages.json";
+import site from "../content/site.json";
+
+const page = data.pages.find((entry) => entry.path === "/");
+if (!page) {
+  throw new Error("Home page content was not generated. Run npm run prepare-content.");
+}
+---
+
+<BaseLayout pageTitle={page.title}>
+  <PageHero title={page.title} excerpt={site.intro} />
+  <ContentSection html={page.contentHtml} />
+  <ImageGallery images={page.gallery} />
+  <PageLinks links={page.internalLinks} allPages={data.pages} />
+</BaseLayout>

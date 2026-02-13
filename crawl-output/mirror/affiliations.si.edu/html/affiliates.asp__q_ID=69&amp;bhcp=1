@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled  html_header_top html_logo_left html_main_nav_header html_menu_right html_custom html_header_sticky html_header_shrinking_disabled html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone av-cookies-no-cookie-consent av-no-preview av-default-lightbox html_text_menu_active av-mobile-menu-switch-default">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Page not found &#8211; Smithsonian Affiliations</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel="alternate" type="application/rss+xml" title="Smithsonian Affiliations &raquo; Feed" href="https://affiliations.si.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Smithsonian Affiliations &raquo; Comments Feed" href="https://affiliations.si.edu/comments/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= 'https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=auto';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+
+			</script>
+			<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='avia-grid-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/grid.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/base.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/layout.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-buttonrow-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-fullwidth-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-catalogue-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-contact-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-countdown-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-dynamic-field-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/dynamic_field/dynamic_field.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-hor-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-maps-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-rotator-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-circles-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icongrid-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconlist-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-diff-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_diff/image_diff.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-sc-lottie-animation-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-magazine-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-menu-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-notification-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-numbers-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-post-metadata-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/post_metadata/post_metadata.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-progress-bar-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-promobox-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-sc-search-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-accordion-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-feature-image-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullscreen-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-ls-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabsection-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-team-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-testimonials-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-timeline-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css' href='https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=7.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://affiliations.si.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.9' type='text/css' media='all' />
+<style id='collapsing-archives-style-inline-css' type='text/css'>
+
+
+/*# sourceURL=https://affiliations.si.edu/wp-content/plugins/collapsing-archives/build/style-index.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--metallic-red: #b02b2c;--wp--preset--color--maximum-yellow-red: #edae44;--wp--preset--color--yellow-sun: #eeee22;--wp--preset--color--palm-leaf: #83a846;--wp--preset--color--aero: #7bb0e7;--wp--preset--color--old-lavender: #745f7e;--wp--preset--color--steel-teal: #5f8789;--wp--preset--color--raspberry-pink: #d65799;--wp--preset--color--medium-turquoise: #4ecac2;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1130px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-color{color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-color{color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-color{color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-color{color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-color{color: var(--wp--preset--color--aero) !important;}.has-old-lavender-color{color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-color{color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-color{color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-color{color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-background-color{background-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-background-color{background-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-background-color{background-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-background-color{background-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-background-color{background-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-background-color{background-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-background-color{background-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-background-color{background-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-background-color{background-color: var(--wp--preset--color--medium-turquoise) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-metallic-red-border-color{border-color: var(--wp--preset--color--metallic-red) !important;}.has-maximum-yellow-red-border-color{border-color: var(--wp--preset--color--maximum-yellow-red) !important;}.has-yellow-sun-border-color{border-color: var(--wp--preset--color--yellow-sun) !important;}.has-palm-leaf-border-color{border-color: var(--wp--preset--color--palm-leaf) !important;}.has-aero-border-color{border-color: var(--wp--preset--color--aero) !important;}.has-old-lavender-border-color{border-color: var(--wp--preset--color--old-lavender) !important;}.has-steel-teal-border-color{border-color: var(--wp--preset--color--steel-teal) !important;}.has-raspberry-pink-border-color{border-color: var(--wp--preset--color--raspberry-pink) !important;}.has-medium-turquoise-border-color{border-color: var(--wp--preset--color--medium-turquoise) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='sm-style-css' href='https://affiliations.si.edu/wp-content/plugins/wp-show-more/wpsm-style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://affiliations.si.edu/wp-content/uploads/maxmegamenu/style.css?ver=7fb935' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://affiliations.si.edu/wp-includes/css/dashicons.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://affiliations.si.edu/wp-content/themes/enfold/style.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='enfold-style-css' href='https://affiliations.si.edu/wp-content/themes/enfold/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-maps-style-css' href='https://affiliations.si.edu/wp-content/themes/enfold-child/css/affiliate-map.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/shortcodes.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-fold-unfold-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/avia-snippet-fold-unfold.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css' href='https://affiliations.si.edu/wp-content/themes/enfold/js/aviapopup/magnific-popup.min.css?ver=7.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=7.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=7.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css' href='https://affiliations.si.edu/wp-content/uploads/dynamic_avia/enfold_child.css?ver=68a32e6e769c4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css' href='https://affiliations.si.edu/wp-content/themes/enfold/css/custom.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css' href='https://affiliations.si.edu/wp-content/themes/enfold-child/style.css?ver=7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://affiliations.si.edu/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://affiliations.si.edu/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://affiliations.si.edu/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.1' type='text/css' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://affiliations.si.edu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-js.js?ver=7.1" id="avia-js-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-compat.js?ver=7.1" id="avia-compat-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://affiliations.si.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PK67J2"
+title="Google Tag Manager Implementation" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PK67J2');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--[if lt IE 9]><script src="https://affiliations.si.edu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]--><link rel="alternate" type="application/rss+xml" title="Smithsonian Affiliations RSS2 Feed" href="https://affiliations.si.edu/feed/" />
+<link rel="pingback" href="https://affiliations.si.edu/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:96px; line-height: 96px; }
+ .html_top_nav_header .av-logo-container{ height:96px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:124px; } 
+</style>
+<meta name="generator" content="Elementor 3.34.1; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<meta name="generator" content="Powered by Slider Revolution 6.7.40 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://affiliations.si.edu/wp-content/uploads/2016/09/cropped-AffiliationsLogo300x72-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://affiliations.si.edu/wp-content/uploads/2016/09/cropped-AffiliationsLogo300x72-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://affiliations.si.edu/wp-content/uploads/2016/09/cropped-AffiliationsLogo300x72-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://affiliations.si.edu/wp-content/uploads/2016/09/cropped-AffiliationsLogo300x72-1-270x270.jpg" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			i {
+	font-style:italic !important;
+}
+
+.elementor-bullets ul {
+	list-style-type: square;
+	margin-left: 20px;
+}
+
+/* Link Underline In Elementor Text Editor*/  
+.elementor-text-editor a {
+color: #2D5C88;
+	text-decoration: underline;
+}
+.elementor-text-editor a:visited {
+color: #2D5C88;
+	text-decoration: underline;
+}
+.elementor-text-editor a:hover {
+text-decoration: underline;
+}
+
+.excursion-card-column{
+	height: 550px;
+}
+
+
+.sr-only {
+      border: 0; 
+      clip: rect(0 0 0 0); 
+      height: 1px; 
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+a {
+color: #2D5C88;
+	text-decoration: underline;
+}
+
+.social_bookmarks li a:focus{
+		border: 2px solid #0099CC;
+	}
+
+.wpsm-show, .wpsm-hide {
+	color:#165C7D !important;
+}
+
+.gfield_label {font-size:1.15em !important; font-weight: normal !important;}
+
+.gfield_description {font-size:.92em !important;}
+
+.gform_description, .gform_body {
+color: #000!important;
+}
+
+.content {
+	padding: 0!important;
+}		</style>
+		<style type="text/css">
+		@font-face {font-family: 'entypo-fontello-enfold'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.woff2') format('woff2'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.woff') format('woff'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.ttf') format('truetype'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.svg#entypo-fontello-enfold') format('svg'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.eot'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello-enfold/entypo-fontello-enfold.eot?#iefix') format('embedded-opentype');
+		}
+
+		#top .avia-font-entypo-fontello-enfold, body .avia-font-entypo-fontello-enfold, html body [data-av_iconfont='entypo-fontello-enfold']:before{ font-family: 'entypo-fontello-enfold'; }
+		
+		@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+		src: url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.woff2') format('woff2'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.woff') format('woff'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.ttf') format('truetype'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.svg#entypo-fontello') format('svg'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.eot'),
+		url('https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello/entypo-fontello.eot?#iefix') format('embedded-opentype');
+		}
+
+		#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+		</style><style type="text/css">/** Mega Menu CSS: fs **/</style>
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 7.1
+Installed: enfold
+AviaFramework Version: 5.6
+AviaBuilder Version: 6.0
+aviaElementManager Version: 1.0.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 0.1.0
+ChildTheme Installed: enfold
+
+- - - - - - - - - - -
+ML:10240-PU:33-PLA:27
+WP:6.9
+Compress: CSS:disabled - JS:disabled
+Updates: enabled - deprecated Envato API - register Envato Token
+PLAu:25
+-->
+</head>
+
+<body id="top" class="error404 wp-theme-enfold wp-child-theme-enfold-child stretched rtl_columns av-curtain-numeric open_sans  locale-en-us mega-menu-avia avia-responsive-images-support elementor-default elementor-kit-23735" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_custom av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_minimal_header av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_secondary_right av_extra_header_active'>
+		
+			      <div class='container'>
+			      <nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><ul id="avia2-menu" class="menu"><li id="menu-item-23612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-23612"><a href="https://affiliations.si.edu/">Home</a></li>
+<li id="menu-item-14515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14515"><a href="https://affiliations.si.edu/blog/">Blog</a></li>
+<li id="menu-item-16467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16467"><a href="https://affiliations.si.edu/contact-us/">Contact Us</a></li>
+<li id="menu-item-2073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2073"><a target="_blank" href="https://go.pardot.com/l/226552/2021-04-26/lqmvx">eNewsletter</a></li>
+</ul></nav>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><strong class='logo avia-standard-logo'><a href='https://affiliations.si.edu/' class='' aria-label='Smithsonian Affiliations yellow and blue sunburst&nbsp;logo' title='Smithsonian Affiliations yellow and blue sunburst&nbsp;logo'><img src="https://affiliations.si.edu/wp-content/uploads/2019/03/si_Affiliations_rgb_single-line_color-280w-1.jpg" height="100" width="300" alt='Smithsonian Affiliations' title='Smithsonian Affiliations yellow and blue sunburst&nbsp;logo' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div id="mega-menu-wrap-avia" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'>MENU</span><span class='mega-toggle-label-open'>MENU</span></span></div></div></div><ul id="mega-menu-avia" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1120" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-23614" id="mega-menu-item-23614"><a class="mega-menu-link" href="https://affiliations.si.edu/about/" aria-expanded="false" tabindex="0">About Us<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-17856" id="mega-menu-item-17856"><a class="mega-menu-link" href="https://affiliations.si.edu/meet-our-team/">Meet Our Team</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-332" id="mega-menu-item-332"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-directory/">Affiliate Directory</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1620" id="mega-menu-item-1620"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-map/">Affiliate Map</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-23449" id="mega-menu-item-23449"><a class="mega-menu-link" href="https://affiliations.si.edu/50states-50stories/">50 States – 50 Stories</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-337" id="mega-menu-item-337"><a class="mega-menu-link" href="https://affiliations.si.edu/news-press/">Press</a></li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-37391" id="mega-menu-item-37391"><a class="mega-menu-link" href="https://affiliations.si.edu/applying-for-affiliation/" tabindex="0">Applying for Affiliation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-349" id="mega-menu-item-349"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-benefits/" aria-expanded="false" tabindex="0">Affiliate Benefits<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-40259" id="mega-menu-item-40259"><a class="mega-menu-link" href="https://affiliations.si.edu/making-history-making-change/">Making History Making Change</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-37744" id="mega-menu-item-37744"><a class="mega-menu-link" href="https://affiliations.si.edu/learning-hub/">Affiliate Learning Hub</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-310" id="mega-menu-item-310"><a class="mega-menu-link" href="https://affiliations.si.edu/logos-taglines/">Logos & Taglines</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-37445" id="mega-menu-item-37445"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-membership-program-overview/" aria-expanded="false">Membership Program<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-305" id="mega-menu-item-305"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-benefits/membership/smithsonian-affiliate-membership/">Smithsonian Affiliate Membership</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-16324" id="mega-menu-item-16324"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-benefits/membership/affiliate-reciprocal-membership/">Affiliate Reciprocal Membership</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-16572" id="mega-menu-item-16572"><a class="mega-menu-link" href="https://affiliations.si.edu/national-youth-summits/">National Youth Summits</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-16169" id="mega-menu-item-16169"><a class="mega-menu-link" href="https://affiliations.si.edu/smithsonian-learning-lab/">Smithsonian Learning Lab</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-20712" id="mega-menu-item-20712"><a class="mega-menu-link" href="https://affiliations.si.edu/affiliate-benefits/voices/">Smithsonian Voices Blog</a></li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-341" id="mega-menu-item-341"><a class="mega-menu-link" href="https://affiliations.si.edu/resources/" aria-expanded="false" tabindex="0">Resources<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-35204" id="mega-menu-item-35204"><a class="mega-menu-link" href="https://affiliations.si.edu/critical-conversation-resources/">Critical Conversation Resources</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-20045" id="mega-menu-item-20045"><a class="mega-menu-link" href="https://affiliations.si.edu/online-learning-resources/">Online Learning Resources</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-346" id="mega-menu-item-346"><a class="mega-menu-link" href="https://affiliations.si.edu/resources/job-announcements/" aria-expanded="false">Job and Internship Opportunities<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-28421" id="mega-menu-item-28421"><a class="mega-menu-link" href="https://affiliations.si.edu/smithsonian-affiliate-employment-opportunities/">Employment Opportunities</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-35253" id="mega-menu-item-35253"><a class="mega-menu-link" href="https://affiliations.si.edu/leadership-for-change-internship/">Leadership for Change Internship</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-345" id="mega-menu-item-345"><a class="mega-menu-link" href="https://affiliations.si.edu/resources/exhibition-opportunities/">Exhibition Opportunities</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-348" id="mega-menu-item-348"><a class="mega-menu-link" href="https://affiliations.si.edu/si-edu/">SI.edu</a></li></ul>
+</li><li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" role="menuitem"><a class="avia-svg-icon avia-font-svg_entypo-fontello" aria-label="Search" href="?s=" rel="nofollow" title="Click to open the search input field" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://affiliations.si.edu/&quot; id=&quot;searchform&quot; name=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; title=&quot;Search submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; title=&quot;Search text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder=&#039;Search&#039; /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" data-av_svg_icon='search' data-av_iconset='svg_entypo-fontello'><svg version="1.1" xmlns="https://www.w3.org/2000/svg" width="25" height="32" viewBox="0 0 25 32" preserveAspectRatio="xMidYMid meet" aria-labelledby='av-svg-title-1' aria-describedby='av-svg-desc-1' role="graphics-symbol" aria-hidden="true">
+<title id='av-svg-title-1'>Click to open the search input field</title>
+<desc id='av-svg-desc-1'>Click to open the search input field</desc>
+<path d="M24.704 24.704q0.96 1.088 0.192 1.984l-1.472 1.472q-1.152 1.024-2.176 0l-6.080-6.080q-2.368 1.344-4.992 1.344-4.096 0-7.136-3.040t-3.040-7.136 2.88-7.008 6.976-2.912 7.168 3.040 3.072 7.136q0 2.816-1.472 5.184zM3.008 13.248q0 2.816 2.176 4.992t4.992 2.176 4.832-2.016 2.016-4.896q0-2.816-2.176-4.96t-4.992-2.144-4.832 2.016-2.016 4.832z"></path>
+</svg><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special " role="menuitem">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+
+	<div id='main' class='all_colors' data-scroll-offset='94'>
+
+			<div class='container_wrap container_wrap_first main_color fullsize'>
+
+			
+			<div class='container'>
+
+				<main class='template-page content av-content-full alpha units av-main-404'  role="main" itemprop="mainContentOfPage" >
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+<p class='entry-content'><strong>Nothing Found</strong><br/>
+
+Sorry, the post you are looking for is not available. Maybe you want to perform a search?</p>
+
+
+<form action="https://affiliations.si.edu/" id="searchform" name="searchform" method="get" class="">
+	<div>
+		<input type="submit" title="Search submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" title="Search text" id="s" name="s" value="" placeholder='Search' />
+			</div>
+</form>
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p><strong>For best search results, mind the following suggestions:</strong></p>
+    <ul class='borderlist-not'>
+        <li>Always double check your spelling.</li>
+        <li>Try similar keywords, for example: tablet instead of laptop.</li>
+        <li>Try using more than one keyword.</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    </section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+				<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column   first el_before_'><section id="custom_html-3" class="widget_text widget clearfix widget_custom_html"><div class="textwidget custom-html-widget"><!-- social icons are enabled by fontawesome -->
+<script src="https://kit.fontawesome.com/6398ada1c9.js" crossorigin="anonymous"></script>
+<!-- social icons require custom css for spacing -->
+<style>
+    .fab {margin-bottom:12px;margin-right:8px;font-size:1.2em}
+</style>
+<a href="https://www.si.edu/">
+<img src="https://affiliations.si.edu/wp-content/uploads/2020/01/SI-logo-e1579293840914.jpg" alt="Smithsonian logo" /></a>
+<table style="border-style: none; background-color:transparent;" role="presentation">
+    <tr>
+        <td style="border-width:0px; background-color:#101920;">
+            <span style="font-weight:bold;color:#fff;">Mailing Address </span><br />
+            PO Box 37012<br />
+            MRC 942<br />
+            Washington, DC 20013-7012
+        </td>
+        <td style="border-width:0px; background-color:#101920;">
+            <span style="font-weight:bold;color:#fff;">Delivery Address </span><br />
+            600 Maryland Avenue SW<br />
+            Suite 5060W<br />
+            Washington, DC 20024
+        </td>
+        <td style="border-width:0px; background-color:#101920;">
+            <span style="font-weight:bold;color:#fff;">Find Us Online</span><br />
+            <a href="https://NationalEngagement.si.edu">NationalEngagement.si.edu</a>
+        </td>
+			<td style="border-width:0px; background-color:#101920;">
+				<!-- SOCIAL ICONS HERE -->
+				
+				<span style="font-weight: normal; color: #fff;font-size:.9em;"><a style="color: #ffffff;" href="https://sites.si.edu">SITES</a></span>
+
+<ul style="padding-inline-start: 8px;">
+        <a href="https://www.facebook.com/sitesExhibitions" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+	<a href="https://x.com/sitesExhibits" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-square-x-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.instagram.com/sitesExhibitions" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+	<a href="https://www.youtube.com/user/sitesExhibitions" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+</ul>
+
+<span style="font-weight: normal; color: #fff;font-size:.9em;"><a style="color: #ffffff;" href="https://www.museummainstreet.org">Museum on Main Street</a></span>
+
+<ul style="padding-inline-start: 8px;">
+	<a href="https://www.facebook.com/museumonmainstreet" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+	<a href="https://x.com/museumonmainst" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-square-x-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.youtube.com/museumonmainstreet" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+</ul>
+
+<span style="font-weight: normal; color: #fff;font-size:.9em;"><a style="color: #ffffff;" href="https://twitter.com/museumonmainst">Smithsonian Affiliations</a></span>
+
+<ul style="padding-inline-start: 8px;">
+	<a href="https://www.facebook.com/SmithsonianAffiliations/" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
+	<a href="https://x.com/siaffiliates" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-square-x-twitter" aria-hidden="true"></i></a>
+	<a href="https://www.instagram.com/smithsonianaffiliates/" style="padding: 0 8px 10px 0;color: #ffffff;"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+</ul>
+				
+			</td>
+   </tr>
+</table></div><span class="seperator extralight-border"></span></section></div>
+					</div>
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+	
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" aria-label="Copyright and company info" >
+                    <div class='container'>
+
+                        <span class='copyright'><a href="https://www.si.edu/privacy/">Privacy Statement</a> | <a href="https://www.si.edu/termsofuse/">Terms of Use</a> <br /><br /> &copy; 2022 Smithsonian Institution </span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+
+		<!-- end wrap_all --></div>
+<a href='#top' title='Scroll to top' id='scroll-top-link' class='avia-svg-icon avia-font-svg_entypo-fontello' data-av_svg_icon='up-open' data-av_iconset='svg_entypo-fontello' tabindex='-1' aria-hidden='true'>
+	<svg version="1.1" xmlns="https://www.w3.org/2000/svg" width="19" height="32" viewBox="0 0 19 32" preserveAspectRatio="xMidYMid meet" aria-labelledby='av-svg-title-2' aria-describedby='av-svg-desc-2' role="graphics-symbol" aria-hidden="true">
+<title id='av-svg-title-2'>Scroll to top</title>
+<desc id='av-svg-desc-2'>Scroll to top</desc>
+<path d="M18.048 18.24q0.512 0.512 0.512 1.312t-0.512 1.312q-1.216 1.216-2.496 0l-6.272-6.016-6.272 6.016q-1.28 1.216-2.496 0-0.512-0.512-0.512-1.312t0.512-1.312l7.488-7.168q0.512-0.512 1.28-0.512t1.28 0.512z"></path>
+</svg>	<span class="avia_hidden_link_text">Scroll to top</span>
+</a>
+
+<div id="fb-root"></div>
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/enfold-child/*","/wp-content/themes/enfold/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+(function($){
+    $(window).load(function() { 
+        $('.av-horizontal-gallery-link').css('bottom', '30px');        
+        $('.av-horizontal-gallery-img').each(function(){
+            var imgTitle = $(this).attr('title'); 
+            $(this).after('<p class="text-under-image">' + imgTitle + '</p>');
+            $(this).css({
+                'padding-bottom' : '20px',
+                'background-color' : 'transparent',
+            });
+            $('.text-under-image').css({
+                "text-align": "center",
+                "margin": "-20px 0",
+                "color": "#000",
+            });
+        });
+    });
+})(jQuery);
+</script>
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://affiliations.si.edu/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://affiliations.si.edu/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://affiliations.si.edu/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='rs-plugin-settings-css' href='//affiliations.si.edu/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.40' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.4.min.js?ver=3.6.4" id="jquery-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/waypoints/waypoints.min.js?ver=7.1" id="avia-waypoints-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia.js?ver=7.1" id="avia-default-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/shortcodes.js?ver=7.1" id="avia-shortcodes-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=7.1" id="avia-module-audioplayer-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/chart/chart-js.min.js?ver=7.1" id="avia-module-chart-js-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/chart/chart.js?ver=7.1" id="avia-module-chart-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=7.1" id="avia-module-contact-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=7.1" id="avia-module-slideshow-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=7.1" id="avia-module-countdown-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=7.1" id="avia-module-gallery-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=7.1" id="avia-module-gallery-hor-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=7.1" id="avia-module-rotator-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.js?ver=7.1" id="avia-module-icon-circles-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=7.1" id="avia-module-icongrid-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=7.1" id="avia-module-iconlist-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_diff/image_diff.js?ver=7.1" id="avia-module-image-diff-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=7.1" id="avia-module-hotspot-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.js?ver=7.1" id="avia-module-sc-lottie-animation-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=7.1" id="avia-module-magazine-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.min.js?ver=7.1" id="avia-module-isotope-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=7.1" id="avia-module-masonry-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=7.1" id="avia-module-menu-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=7.1" id="avia-module-notification-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=7.1" id="avia-module-numbers-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=7.1" id="avia-module-portfolio-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=7.1" id="avia-module-progress-bar-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=7.1" id="avia-module-slideshow-video-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=7.1" id="avia-module-slideshow-accordion-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=7.1" id="avia-module-slideshow-fullscreen-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=7.1" id="avia-module-slideshow-ls-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=7.1" id="avia-module-tabsection-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=7.1" id="avia-module-tabs-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=7.1" id="avia-module-testimonials-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=7.1" id="avia-module-timeline-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=7.1" id="avia-module-toggles-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" id="jquery-ui-datepicker-js-after">
+/* <![CDATA[ */
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+//# sourceURL=jquery-ui-datepicker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/affiliate-external-data/datepicker.js" id="calendar-datepicker-js"></script>
+<script type="text/javascript" src="//affiliations.si.edu/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.40" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="//affiliations.si.edu/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.40" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/wp-show-more/wpsm-script.js?ver=1.0.1" id="sm-script-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=7.1" id="avia-hamburger-menu-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-parallax.js?ver=7.1" id="avia-parallax-support-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-fold-unfold.js?ver=7.1" id="avia-fold-unfold-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=7.1" id="avia-popup-js-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=7.1" id="avia-lightbox-activation-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=7.1" id="avia-megamenu-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=7.1" id="avia-sticky-header-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-footer-effects.js?ver=7.1" id="avia-footer-effects-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=7.1" id="avia-widget-js-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=7.1" id="avia_blocks_front_script-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.8" id="elementskit-framework-js-frontend-js"></script>
+<script type="text/javascript" id="elementskit-framework-js-frontend-js-after">
+/* <![CDATA[ */
+		var elementskit = {
+			resturl: 'https://affiliations.si.edu/wp-json/elementskit/v1/',
+		}
+
+		
+//# sourceURL=elementskit-framework-js-frontend-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.8" id="ekit-widget-scripts-js"></script>
+<script type="text/javascript" id="eael-general-js-extra">
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https://affiliations.si.edu/wp-admin/admin-ajax.php","nonce":"5acab276c8","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+//# sourceURL=eael-general-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.5.5" id="eael-general-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.63" id="pa-elements-handler-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/framework/js/conditional_load/avia_google_maps_front.js?ver=7.1" id="avia_google_maps_front_script-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.7" id="megamenu-js"></script>
+<script type="text/javascript" src="https://affiliations.si.edu/wp-content/themes/enfold/config-lottie-animations/assets/lottie-player/dotlottie-player.js?ver=7.1" id="avia-dotlottie-script-js"></script>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2013 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 5/29/2013 1:20:47 PM -->
+<script src="https://affiliations.si.edu/wp-content/themes/enfold-child/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1"  src="//logs1.smithsonian.museum/dcsprol3abdzpx7md2qei6z6p_5o5q/njs.gif? dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=affiliations.si.edu"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+<script type="text/javascript">cpp_value="AFFILIATIONS";</script>
+ <script>
+	// ForeSee Production Embed Script v2.00
+	// DO NOT MODIFY BELOW THIS LINE *****************************************
+	;(function (g) {
+	var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
+	aex = {
+  	"src": "//gateway.foresee.com/sites/smithsonian/production/gateway.min.js",
+  	"type": "text/javascript",
+  	"async": "true",
+  	"data-vendor": "fs",
+  	"data-role": "gateway"
+	};
+	for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr] = function () {var aT = '__' + fsr + '_stk__';g[aT] = g[aT] || [];g[aT].push(arguments);};
+	})(window);
+	// DO NOT MODIFY ABOVE THIS LINE *****************************************
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://affiliations.si.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://affiliations.si.edu/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+</body>
+</html>

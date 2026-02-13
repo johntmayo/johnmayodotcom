@@ -1,0 +1,40 @@
+---
+const { links = [], allPages = [] } = Astro.props;
+const pageMap = new Map(allPages.map((page) => [page.path, page]));
+const uniqueLinks = [...new Set(links)].filter((link) => pageMap.has(link));
+---
+
+{
+  uniqueLinks.length > 0 && (
+    <section class="container links-wrap">
+      <h2>Related Pages</h2>
+      <ul class="card links">
+        {uniqueLinks.map((link) => (
+          <li>
+            <a href={link}>{pageMap.get(link)?.title || link}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .links-wrap {
+    margin-top: var(--space-6);
+  }
+
+  .links {
+    list-style: none;
+    margin: 0;
+    padding: var(--space-4) var(--space-5);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-3);
+  }
+
+  li a {
+    display: inline-block;
+    text-decoration: none;
+  }
+</style>

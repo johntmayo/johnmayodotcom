@@ -1,0 +1,696 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home Page of Representative John Mayo</title>
+  <meta name="description" content="Home page of Representative John Mayo, Mississippi House District 25.">
+  <style>
+    :root {
+      --bg: #edf1f4;
+      --hero-ink: #f7f8fb;
+      --surface: #ffffff;
+      --surface-soft: #f8fafc;
+      --ink: #16232d;
+      --muted: #51606d;
+      --accent: #1f5267;
+      --accent-2: #2c7684;
+      --line: #d7dfe5;
+      --shadow: 0 14px 40px rgba(22, 39, 50, 0.08);
+      --radius: 16px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", "Segoe UI", Tahoma, Arial, sans-serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 10% 0%, #fbfdff 0%, var(--bg) 45%, #e7edf1 100%);
+      line-height: 1.6;
+      font-size: 17px;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus-visible {
+      text-decoration: underline;
+    }
+
+    .layout {
+      max-width: 1260px;
+      margin: 0 auto;
+      padding: 1.1rem;
+      display: grid;
+      grid-template-columns: 240px minmax(0, 1fr);
+      gap: 1.2rem;
+    }
+
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      margin: 1.1rem auto 0;
+      max-width: 1260px;
+      border-radius: 18px;
+      overflow: hidden;
+      position: relative;
+      min-height: 360px;
+      background: linear-gradient(120deg, #13232f 0%, #1d3a49 52%, #2a5b6e 100%);
+      box-shadow: 0 20px 48px rgba(18, 39, 50, 0.2);
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(17, 31, 41, 0.87) 0%, rgba(17, 31, 41, 0.56) 48%, rgba(17, 31, 41, 0.24) 100%),
+        url("./Home Page of Representative John Mayo_files/present1.jpg") right center / contain no-repeat;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      color: var(--hero-ink);
+      padding: 2.7rem clamp(1.15rem, 2.3vw, 2.5rem);
+      width: min(690px, 92%);
+    }
+
+    .hero h1 {
+      margin: 0;
+      line-height: 1.15;
+      font-size: clamp(1.9rem, 3.7vw, 3.2rem);
+      letter-spacing: 0.01em;
+    }
+
+    .hero p {
+      margin: 0.85rem 0 0;
+      color: #d8e3ea;
+      font-size: clamp(1.05rem, 2vw, 1.24rem);
+    }
+
+    .hero-tags {
+      margin-top: 1rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+    }
+
+    .hero-tag {
+      display: inline-block;
+      font-size: 0.9rem;
+      padding: 0.35rem 0.72rem;
+      border-radius: 999px;
+      border: 1px solid rgba(233, 242, 247, 0.38);
+      background: rgba(255, 255, 255, 0.08);
+      color: #ecf5f9;
+    }
+
+    .hero-links {
+      margin-top: 1.15rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+
+    .hero-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-size: 0.94rem;
+      color: #eaf4f8;
+      border: 1px solid rgba(224, 238, 246, 0.34);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.09);
+      padding: 0.4rem 0.76rem;
+      transition: background-color 0.15s ease, border-color 0.15s ease;
+    }
+
+    .hero-link:hover,
+    .hero-link:focus-visible {
+      text-decoration: none;
+      background: rgba(255, 255, 255, 0.16);
+      border-color: rgba(231, 242, 248, 0.62);
+    }
+
+    .sidebar {
+      padding: 1rem 0.95rem;
+      align-self: start;
+      position: sticky;
+      top: 1rem;
+    }
+
+    .sidebar h2,
+    .section-title {
+      margin: 0;
+      font-size: 0.9rem;
+      color: #667583;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .sidebar h2 {
+      padding: 0.35rem 0.4rem 0.75rem;
+    }
+
+    .sidebar nav a {
+      display: block;
+      padding: 0.66rem 0.72rem;
+      border-radius: 10px;
+      margin-bottom: 0.38rem;
+      transition: background-color 0.15s ease, transform 0.15s ease;
+      border: 1px solid transparent;
+      font-size: 0.95rem;
+    }
+
+    .sidebar nav a:hover,
+    .sidebar nav a:focus-visible {
+      background: #eef5f8;
+      border-color: #d7e6ec;
+      transform: translateX(2px);
+      text-decoration: none;
+    }
+
+    .sidebar .mini-note {
+      margin: 0.62rem 0.4rem 0.2rem;
+      padding: 0.62rem 0.7rem;
+      border-radius: 10px;
+      font-size: 0.93rem;
+      color: #4b5862;
+      background: var(--surface-soft);
+      border: 1px solid var(--line);
+    }
+
+    .content {
+      display: grid;
+      gap: 1.1rem;
+    }
+
+    .card {
+      padding: 1.45rem;
+    }
+
+    .card-header {
+      margin: 0 0 0.7rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .card-header h2 {
+      margin: 0;
+      font-size: clamp(1.28rem, 2.15vw, 1.75rem);
+      line-height: 1.2;
+    }
+
+    .chip {
+      white-space: nowrap;
+      font-size: 0.85rem;
+      background: #eef4f7;
+      border: 1px solid #d3e2e8;
+      color: #325664;
+      border-radius: 999px;
+      padding: 0.35rem 0.7rem;
+    }
+
+    .quick-actions {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.85rem;
+      margin-top: 0.95rem;
+    }
+
+    .action {
+      display: block;
+      border: 1px solid var(--line);
+      border-radius: 13px;
+      padding: 1rem 1.02rem;
+      background: #fbfdff;
+      color: inherit;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+    }
+
+    .action:hover,
+    .action:focus-visible {
+      text-decoration: none;
+      border-color: #bcd6de;
+      transform: translateY(-2px);
+      box-shadow: 0 10px 20px rgba(29, 67, 81, 0.1);
+    }
+
+    .action-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.5rem;
+      gap: 0.5rem;
+    }
+
+    .icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #dff0f6, #edf7fb);
+      border: 1px solid #c8e2eb;
+      color: #1f6176;
+      flex: 0 0 auto;
+    }
+
+    .icon svg {
+      width: 21px;
+      height: 21px;
+      stroke: currentColor;
+      fill: none;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .action-title {
+      font-weight: 700;
+      color: #193140;
+      font-size: 1rem;
+    }
+
+    .action p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.98rem;
+      line-height: 1.45;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.8rem;
+      margin-top: 0.95rem;
+    }
+
+    .contact-block {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--surface-soft);
+      padding: 0.8rem;
+    }
+
+    .contact-block strong {
+      display: block;
+      margin-bottom: 0.35rem;
+      color: #22323d;
+      font-size: 1rem;
+    }
+
+    .contact-block a {
+      font-size: 1.1rem;
+      font-weight: 700;
+      word-break: break-word;
+    }
+
+    .content p {
+      margin-top: 0;
+      margin-bottom: 0.95rem;
+      color: #1d2f3a;
+      font-size: 1.02rem;
+    }
+
+    .highlight {
+      display: block;
+      margin: 0.25rem 0;
+      padding: 0.75rem 0.8rem;
+      border: 1px solid #c7dde5;
+      border-radius: 11px;
+      background: #f2f9fc;
+      color: #234d5d;
+      font-weight: 600;
+    }
+
+    .feature {
+      display: grid;
+      grid-template-columns: 1fr minmax(220px, 330px);
+      gap: 1.2rem;
+      align-items: start;
+    }
+
+    .feature-img-wrap {
+      position: relative;
+    }
+
+    .district-list {
+      margin: 0.65rem 0 0;
+      padding-left: 1.15rem;
+    }
+
+    .district-list li {
+      margin-bottom: 0.62rem;
+    }
+
+    .district-media {
+      display: grid;
+      gap: 0.6rem;
+    }
+
+    .district-media a {
+      display: block;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      background: #eef2f5;
+    }
+
+    .district-media img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .district-media-note {
+      margin: 0;
+      font-size: 0.9rem;
+      color: #5a6771;
+    }
+
+    .district-list .blue {
+      color: #2e6797;
+      font-weight: 700;
+    }
+
+    .district-list .orange {
+      color: #9a6320;
+      font-weight: 700;
+    }
+
+    .resource-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-bottom: 0.65rem;
+    }
+
+    .resource-link {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.38rem 0.72rem;
+      background: #fafcfd;
+      color: #254556;
+      font-size: 0.93rem;
+      transition: background-color 0.15s ease, border-color 0.15s ease;
+    }
+
+    .resource-link:hover,
+    .resource-link:focus-visible {
+      background: #edf5f9;
+      border-color: #c7dde7;
+      text-decoration: none;
+    }
+
+    .archive {
+      margin-top: 0.85rem;
+      border-top: 1px dashed #cad7df;
+      padding-top: 0.7rem;
+    }
+
+    details {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fbfdff;
+      padding: 0.72rem 0.8rem;
+    }
+
+    details summary {
+      cursor: pointer;
+      font-weight: 700;
+      color: #27495b;
+    }
+
+    .legacy-icons {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.5rem;
+      margin-top: 0.8rem;
+    }
+
+    .legacy-icons img {
+      width: 100%;
+      height: auto;
+      border: 1px solid var(--line);
+      border-radius: 9px;
+      background: #f6f9fc;
+    }
+
+    .foot-contact-line {
+      margin: 0 0 0.4rem;
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    .counter {
+      margin-top: 1rem;
+    }
+
+    @media (max-width: 1060px) {
+      .quick-actions {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 940px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+      }
+
+      .feature {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .hero {
+        min-height: 250px;
+      }
+
+      .hero::before {
+        background:
+          linear-gradient(180deg, rgba(17, 31, 41, 0.86) 0%, rgba(17, 31, 41, 0.82) 100%),
+          url("./Home Page of Representative John Mayo_files/present1.jpg") center center / cover no-repeat;
+      }
+
+      .legacy-icons {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .hero-links {
+        gap: 0.45rem;
+      }
+
+      .hero-link {
+        font-size: 0.88rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Representative John Mayo<br>Mississippi House District 25</h1>
+      <p>Personal website and public service updates from John Mayo.</p>
+      <div class="hero-tags">
+        <span class="hero-tag">Constituent Updates</span>
+        <span class="hero-tag">Legislative Session Notes</span>
+        <span class="hero-tag">Veteran Reflections</span>
+      </div>
+      <div class="hero-links">
+        <a class="hero-link" href="http://johnmayo.com/contacting_me.htm">Contacting Me</a>
+        <a class="hero-link" href="http://johnmayo.com/return_to_vietnam.htm">Return to Vietnam</a>
+        <a class="hero-link" href="http://johnmayo.com/before_he_left_for_iraq.htm">Veteran's Day Speech</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="panel sidebar">
+      <h2>Site Links</h2>
+      <nav aria-label="Main links">
+        <a href="http://johnmayo.com/return_to_vietnam.htm">Return to Vietnam</a>
+        <a href="http://johnmayo.com/index1.htm">I Was a Soldier Once...And Young</a>
+        <a href="http://johnmayo.com/contacting_me.htm">Contacting Me</a>
+        <a href="http://johnmayo.com/before_he_left_for_iraq.htm">Before He Left For Iraq</a>
+        <a href="http://johnmayo.com/opening_day_2009.htm">Opening Day 2009</a>
+        <a href="http://johnmayo.com/baby_asher.htm">Baby Asher</a>
+      </nav>
+      <p class="mini-note">[ Home ]<br>This is a personal site and not government sponsored, paid, or managed.</p>
+    </aside>
+
+    <section class="content">
+      <article class="panel card">
+        <div class="card-header">
+          <h2>Welcome to the Homepage of Representative John Mayo.</h2>
+          <span class="chip">Click on picture for additional information</span>
+        </div>
+
+        <div class="quick-actions">
+          <a class="action" href="http://johnmayo.com/contacting_me.htm">
+            <div class="action-top">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24"><path d="M4 5h16v14H4z"></path><path d="m4 7 8 6 8-6"></path></svg>
+              </span>
+              <strong class="action-title">Getting in touch with me</strong>
+            </div>
+            <p>Contact details and ways to reach me directly.</p>
+          </a>
+
+          <a class="action" href="http://johnmayo.com/index1.htm">
+            <div class="action-top">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24"><path d="M4 19h16"></path><path d="M4 5h6l2 2h8v12H4z"></path></svg>
+              </span>
+              <strong class="action-title">Vietnam Pages</strong>
+            </div>
+            <p>I Was a Soldier Once...And Young.</p>
+          </a>
+
+          <a class="action" href="http://johnmayo.com/before_he_left_for_iraq.htm">
+            <div class="action-top">
+              <span class="icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24"><path d="M3 12h18"></path><path d="M12 3v18"></path><circle cx="12" cy="12" r="9"></circle></svg>
+              </span>
+              <strong class="action-title">Veteran's Day Speech</strong>
+            </div>
+            <p>Before He Left For Iraq.</p>
+          </a>
+        </div>
+      </article>
+
+      <article class="panel card">
+        <div class="card-header">
+          <h2>Contact Information</h2>
+          <span class="chip">Jan-April session updates available</span>
+        </div>
+
+        <div class="contact-grid">
+          <div class="contact-block">
+            <strong>Personal E mail</strong>
+            <a href="mailto:john@johnmayo.com">john@johnmayo.com</a>
+          </div>
+          <div class="contact-block">
+            <strong>Legislative E mail</strong>
+            <a href="mailto:jmayo@mail.house.state.ms.us">jmayo@mail.house.state.ms.us</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="panel card">
+        <div class="card-header">
+          <h2>From John Mayo</h2>
+          <span class="chip">Personal Notes</span>
+        </div>
+
+        <p>When I started this site I had two sections. As you can see I have added several more. "I Was a Soldier Once..." is a series of pages of pictures of Vietnam and what I recall I was doing when they were taken. Others include thoughts are what we are doing while in session and some other comments.</p>
+
+        <p>On July 8, 2008, I added a new section following my return from a visit to Vietnam. I would hope you take the time to view these pages. I would hope if you know a Vietnam Vet, you let him or her know that we did, indeed, win the "Hearts and Minds" of the people. <a href="http://johnmayo.com/return_to_vietnam.htm">"Return to Vietnam".</a></p>
+
+        <p>If you wish to contact me regarding any issue, please email to either <a href="mailto:john@johnmayo.com">john@johnmayo.com</a> (my home) or <a href="mailto:jmayo@mail.house.state.ms.us">jmayo@mail.house.state.ms.us</a> while we are in session (Jan-April).</p>
+
+        <span class="highlight">If you want to be added to receive "LEGISLATIVE UPDATES", e mail me at <a href="mailto:jmayo@mail.house.state.ms.us">jmayo@mail.house.state.ms.us</a>.</span>
+
+        <p>By the way, this is my personal site and not a government sponsored, paid, or managed site. My cell phone number is 662 902 8633.</p>
+      </article>
+
+      <article class="panel card feature">
+        <div>
+          <div class="card-header">
+            <h2>District 25</h2>
+            <span class="chip">Serving DeSoto, Tunica, and Coahoma Counties</span>
+          </div>
+          <p>Hello, and welcome to my website.</p>
+          <ul class="district-list">
+            <li><span class="blue">Walls, Nesbit, Eudora, West Hernando, Lake Cormorant, and Oak Grove in DeSoto County</span>.</li>
+            <li><span class="orange">Tunica County west of the levee, north of Arkabutla Lake Road, and southwestern portions of the county</span>.</li>
+            <li>Parts of West Clarksdale, Lula, Rena Lara, Farrell, Bobo, and Sherard in Coahoma County.</li>
+          </ul>
+          <p><em>If you would like to receive daily reports on what is happening behind the scenes while the legislature is in session, e mail me and I will add your name to my list of about 700 constituents who are already receiving the e mails.</em></p>
+          <p>I hope you have the time to look over the site. Please, if you are in my district, let me know your opinions on the issues. <a href="mailto:jmayo@mail.house.state.ms.us">E Mail me.</a></p>
+          <p>I live with my wife Agnes at 803 West Second Street<br>
+          Clarksdale, MS 38614 and you can reach me at 662 624 4706 or on my Cell Phone at 662 902 8633</p>
+        </div>
+        <div class="district-media">
+          <a href="http://johnmayo.com/thelast.htm">
+            <img src="./Home Page of Representative John Mayo_files/family_at_arlington.jpg" width="178" height="122" alt="At Arlington">
+          </a>
+          <a href="http://johnmayo.com/before_he_left_for_iraq.htm">
+            <img src="./Home Page of Representative John Mayo_files/washington_141.jpg" width="151" height="117" alt="Veteran's Day Speech image">
+          </a>
+          <p class="district-media-note">Additional photo pages: <a href="http://johnmayo.com/thelast.htm">At Arlington</a> and <a href="http://johnmayo.com/before_he_left_for_iraq.htm">Veteran's Day Speech</a>.</p>
+        </div>
+      </article>
+
+      <article class="panel card">
+        <div class="card-header">
+          <h2>Educational Resources</h2>
+          <span class="chip">External Links</span>
+        </div>
+
+        <p class="foot-contact-line">E mail during session <a href="mailto:jmayo@mail.house.state.ms.us">jmayo@mail.house.state.ms.us</a></p>
+        <p class="foot-contact-line">E mail out-of session or at home <a href="mailto:john@johnmayo.com">john@johnmayo.com</a></p>
+        <p>These are links to other sites. In order to get back to here, you'll have to click the "Back" icon on your browzer.</p>
+
+        <div class="resource-grid">
+          <a class="resource-link" href="http://www.harrison.lib.ms.us/internet_sites/ms.htm">Learn About Mississippi</a>
+          <a class="resource-link" href="http://www.its.state.ms.us/et/portal/MSSymbols/symbols.htm">Mississippi's State Symbol</a>
+          <a class="resource-link" href="http://www.its.state.ms.us/et/portal/MSFlags/flags.html">Mississippi's Historical Flags</a>
+          <a class="resource-link" href="http://www.ls.state.ms.us/htms/cap_info.htm">Mississippi's State Capitol</a>
+          <a class="resource-link" href="http://www.ls.state.ms.us/htms/billlaw.htm">How a Bill Becomes a Law</a>
+        </div>
+
+        <p>Links to other educational resources:</p>
+        <div class="resource-grid">
+          <a class="resource-link" href="http://mshistory.k12.ms.us/">Mississippi History</a>
+          <a class="resource-link" href="http://affiliations.si.edu/html/affiliates.asp?ID=69&amp;bhcp=1">Smithsonian in Mississippi</a>
+        </div>
+
+        <p class="counter">
+          <img src="./Home Page of Representative John Mayo_files/saved_resource" alt="Hit Counter">
+        </p>
+
+        <div class="archive">
+          <details>
+            <summary>Original legacy clip-art (archived)</summary>
+            <div class="legacy-icons">
+              <img src="./Home Page of Representative John Mayo_files/bd05545_.gif" width="85" height="83" alt="Legacy icon 1">
+              <img src="./Home Page of Representative John Mayo_files/bd04914_.gif" width="75" height="54" alt="Legacy icon 2">
+              <img src="./Home Page of Representative John Mayo_files/satdish2.gif" width="55" height="51" alt="Legacy icon 3">
+              <img src="./Home Page of Representative John Mayo_files/telphon5.gif" width="45" height="66" alt="Legacy icon 4">
+              <img src="./Home Page of Representative John Mayo_files/Mrfa_head2.gif" width="109" height="109" alt="Legacy icon 5">
+              <img src="./Home Page of Representative John Mayo_files/family_at_arlington.jpg" width="178" height="122" alt="At Arlington">
+              <img src="./Home Page of Representative John Mayo_files/washington_141.jpg" width="151" height="117" alt="Veteran's Day Speech image">
+            </div>
+          </details>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>

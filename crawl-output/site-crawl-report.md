@@ -1,0 +1,304 @@
+# Crawl Report: http://johnmayo.com/
+
+- Pages crawled: 30
+- Internal links discovered: 109
+- External links discovered: 13
+- Action targets discovered: 122
+- Unique images discovered: 261
+- Unique assets discovered: 356
+- Failures: 0
+
+## Pages
+- http://johnmayo.com/ (200) - Home Page of Representative John Mayo
+- http://johnmayo.com/baby_asher.htm (200) - Baby Asher
+- http://johnmayo.com/basecamp.htm (200) - Base Camp
+- http://johnmayo.com/before_he_left_for_iraq.htm (200) - Before He Left For Iraq
+- http://johnmayo.com/building.htm (404) - 404 - File or directory not found.
+- http://johnmayo.com/can_tho_city.htm (200) - Can Tho City
+- http://johnmayo.com/can_tho_river_market.htm (200) - Can Tho River Market
+- http://johnmayo.com/contacting_me.htm (200) - Contacting Me
+- http://johnmayo.com/e_mails_and_blogs.htm (200) - E Mails and Blogs
+- http://johnmayo.com/final__thoughts.htm (200) - Final&nbsp; Thoughts
+- http://johnmayo.com/index1.htm (200) - I Was a Soldier Once...And Young
+- http://johnmayo.com/inthe.htm (200) - In the Country
+- http://johnmayo.com/into_the_delta.htm (200) - Into the Delta
+- http://johnmayo.com/intothe.htm (200) - Into the Delta
+- http://johnmayo.com/leaving.htm (200) - Leaving Behind and Coming Home
+- http://johnmayo.com/long_binh_and_bear_cat.htm (200) - Long Binh and Bear Cat
+- http://johnmayo.com/markets_abound.htm (200) - Markets Abound
+- http://johnmayo.com/miscellaneous1.htm (200) - Miscellaneous
+- http://johnmayo.com/opening_day_2009.htm (200) - Opening Day 2009
+- http://johnmayo.com/pledge_of_allegiance.htm (200) - Pledge of Allegiance
+- http://johnmayo.com/question_iraq.htm (200) - Question Iraq
+- http://johnmayo.com/return_to_vietnam.htm (200) - Return to Vietnam
+- http://johnmayo.com/saigon_and_area.htm (200) - Ho Chi Minh City (Saigon) and Area
+- http://johnmayo.com/saigon.htm (200) - Saigon and the Countryside
+- http://johnmayo.com/setting_up_the_trip.htm (200) - Setting up the Trip
+- http://johnmayo.com/the_bridge_at_tan_tru.htm (200) - The Bridge at Tan Tru
+- http://johnmayo.com/the_consulate_and_the_roof.htm (200) - The Consulate and &quot;The Roof&quot;
+- http://johnmayo.com/thelast.htm (200) - The Last Chapter
+- http://johnmayo.com/working.htm (200) - Working for the DMZ
+- http://johnmayo.com/working1.htm (200) - Working on the River
+
+## Image Inventory
+- http://johnmayo.com/3_story_home.JPG
+- http://johnmayo.com/5_and_dime.JPG
+- http://johnmayo.com/Associate_Pastor.JPG
+- http://johnmayo.com/Bridge_today.jpg
+- http://johnmayo.com/DSC00505.JPG
+- http://johnmayo.com/DSC00508.JPG
+- http://johnmayo.com/DSC00523.JPG
+- http://johnmayo.com/DSC00527.JPG
+- http://johnmayo.com/DSCF1051.jpg
+- http://johnmayo.com/Decor.JPG
+- http://johnmayo.com/Front_of_hotel.JPG
+- http://johnmayo.com/Lady_parking_bike.jpg
+- http://johnmayo.com/Monks_in_Saigon_small.jpg
+- http://johnmayo.com/Mrfa_head2.gif
+- http://johnmayo.com/OCS_formation_small.jpg
+- http://johnmayo.com/Podium.JPG
+- http://johnmayo.com/USA_truck.JPG
+- http://johnmayo.com/VC_memorial_with_ARVN.jpg
+- http://johnmayo.com/Wanda_Jennings.JPG
+- http://johnmayo.com/_derived/return_to_vietnam.htm_txt_map20001.gif
+- http://johnmayo.com/_overlay/return_to_vietnam.htm_txt_map20001.gif
+- http://johnmayo.com/across_river_assault_site_2.jpg
+- http://johnmayo.com/army_base_2.JPG
+- http://johnmayo.com/attorneys_office.jpg
+- http://johnmayo.com/bailey_bridge_long_view.jpg
+- http://johnmayo.com/bd04914_.gif
+- http://johnmayo.com/bd05545_.gif
+- http://johnmayo.com/berm.JPG
+- http://johnmayo.com/binh_hoa_small.jpg
+- http://johnmayo.com/blowing_up_safe_small.jpg
+- http://johnmayo.com/blown_bridge_small.jpg
+- http://johnmayo.com/boat_driver.JPG
+- http://johnmayo.com/boat_family.JPG
+- http://johnmayo.com/bridge_children.jpg
+- http://johnmayo.com/bryant.JPG
+- http://johnmayo.com/c_123_small.jpg
+- http://johnmayo.com/can_tho.JPG
+- http://johnmayo.com/can_tho_shops.JPG
+- http://johnmayo.com/can_tho_skyline.JPG
+- http://johnmayo.com/catholic_school.JPG
+- http://johnmayo.com/cholon_small.jpg
+- http://johnmayo.com/chopper_road.jpg
+- http://johnmayo.com/color_guard.JPG
+- http://johnmayo.com/community_college_2_2.JPG
+- http://johnmayo.com/construction.JPG
+- http://johnmayo.com/cooking_small.jpg
+- http://johnmayo.com/creek.JPG
+- http://johnmayo.com/dinner_soup_bowl.JPG
+- http://johnmayo.com/dinner_soup_open.JPG
+- http://johnmayo.com/district_army_hq.JPG
+- http://johnmayo.com/dmz_bunker_small.jpg
+- http://johnmayo.com/dmz_scar_small.jpg
+- http://johnmayo.com/dmz_small.jpg
+- http://johnmayo.com/driver_with_cell_phone.JPG
+- http://johnmayo.com/drying_incense.JPG
+- http://johnmayo.com/drying_rice_2.JPG
+- http://johnmayo.com/dueling.JPG
+- http://johnmayo.com/family_at_arlington.jpg
+- http://johnmayo.com/ferries.jpg
+- http://johnmayo.com/ferry_traffic.jpg
+- http://johnmayo.com/ferry_traffic_2.jpg
+- http://johnmayo.com/field_small.jpg
+- http://johnmayo.com/fish_market.JPG
+- http://johnmayo.com/flag_use.JPG
+- http://johnmayo.com/floating_hotel.JPG
+- http://johnmayo.com/germany_first_communion_small.jpg
+- http://johnmayo.com/germany_me_and_mike_small.jpg
+- http://johnmayo.com/girl_selling_cola_small.jpg
+- http://johnmayo.com/going_through_saigon_small.jpg
+- http://johnmayo.com/graves_in_line.jpg
+- http://johnmayo.com/hiv.JPG
+- http://johnmayo.com/home_small.jpg
+- http://johnmayo.com/homes_of_river.JPG
+- http://johnmayo.com/homes_on_river_2.JPG
+- http://johnmayo.com/homes_on_river_3.JPG
+- http://johnmayo.com/hooch_small.jpg
+- http://johnmayo.com/hotel_caravelle.JPG
+- http://johnmayo.com/hotel_continental.JPG
+- http://johnmayo.com/hotel_exterior.JPG
+- http://johnmayo.com/hotel_exterior_3.JPG
+- http://johnmayo.com/hotel_interior.JPG
+- http://johnmayo.com/hotel_interior_2.JPG
+- http://johnmayo.com/hotel_majestic.JPG
+- http://johnmayo.com/hotel_traffic.JPG
+- http://johnmayo.com/hotel_traffic_2.JPG
+- http://johnmayo.com/incense_drying.jpg
+- http://johnmayo.com/industrial_park_sign.JPG
+- http://johnmayo.com/intoth1_small.jpg
+- http://johnmayo.com/j15_150a.gif
+- http://johnmayo.com/joe_warren.JPG
+- http://johnmayo.com/land_market.JPG
+- http://johnmayo.com/land_market_2.JPG
+- http://johnmayo.com/land_market_eels.JPG
+- http://johnmayo.com/land_market_meat.JPG
+- http://johnmayo.com/land_market_meat_2.JPG
+- http://johnmayo.com/land_market_peppers.JPG
+- http://johnmayo.com/land_market_rats.JPG
+- http://johnmayo.com/land_market_three.JPG
+- http://johnmayo.com/latrines_and_mud_small.jpg
+- http://johnmayo.com/long_binh.JPG
+- http://johnmayo.com/long_binh_2.JPG
+- http://johnmayo.com/long_binh_3.JPG
+- http://johnmayo.com/long_binh_4.JPG
+- http://johnmayo.com/map.gif
+- http://johnmayo.com/map20001.gif
+- http://johnmayo.com/map_small.gif
+- http://johnmayo.com/map_small1.gif
+- http://johnmayo.com/market_1.JPG
+- http://johnmayo.com/market_12.JPG
+- http://johnmayo.com/market_15.JPG
+- http://johnmayo.com/market_16.JPG
+- http://johnmayo.com/market_16_2.JPG
+- http://johnmayo.com/market_2.JPG
+- http://johnmayo.com/market_4.JPG
+- http://johnmayo.com/market_6.JPG
+- http://johnmayo.com/market_7.JPG
+- http://johnmayo.com/market_drink_vendor.JPG
+- http://johnmayo.com/market_from_high.JPG
+- http://johnmayo.com/market_from_high_2.JPG
+- http://johnmayo.com/market_good_one.JPG
+- http://johnmayo.com/market_me.JPG
+- http://johnmayo.com/market_me_2.JPG
+- http://johnmayo.com/market_me_3.JPG
+- http://johnmayo.com/market_outside.JPG
+- http://johnmayo.com/market_pans.JPG
+- http://johnmayo.com/market_pineapple.JPG
+- http://johnmayo.com/market_tourists.JPG
+- http://johnmayo.com/market_toys.JPG
+- http://johnmayo.com/me_at_bridge.jpg
+- http://johnmayo.com/me_i_think.jpg
+- http://johnmayo.com/me_i_think_small.jpg
+- http://johnmayo.com/me_small.jpg
+- http://johnmayo.com/medal_ceremony_small.jpg
+- http://johnmayo.com/medriving_boat.JPG
+- http://johnmayo.com/mom_and_dad_i_think_small.jpg
+- http://johnmayo.com/mom_with_baby.jpg
+- http://johnmayo.com/mortar_trnch_mud_2_small.jpg
+- http://johnmayo.com/motorcycle_girl_1.JPG
+- http://johnmayo.com/motorcycle_girl_2.JPG
+- http://johnmayo.com/motors_on_sidewalk.JPG
+- http://johnmayo.com/my_home_in_a_hole.jpg
+- http://johnmayo.com/my_home_in_a_hole_small.jpg
+- http://johnmayo.com/naha_city_small.jpg
+- http://johnmayo.com/nail_boobytrap_small.jpg
+- http://johnmayo.com/narrow_roads.JPG
+- http://johnmayo.com/notre_dame.JPG
+- http://johnmayo.com/notre_dame_and_diamond_plaza.JPG
+- http://johnmayo.com/notre_dame_inside_use.JPG
+- http://johnmayo.com/original_buildings_now_factories.JPG
+- http://johnmayo.com/outside_embassy.JPG
+- http://johnmayo.com/parking_5_and_dime.JPG
+- http://johnmayo.com/pick_your_duck.JPG
+- http://johnmayo.com/plaque.JPG
+- http://johnmayo.com/playground_1_small.jpg
+- http://johnmayo.com/pledge.JPG
+- http://johnmayo.com/post_office_3.jpg
+- http://johnmayo.com/post_office_interior.JPG
+- http://johnmayo.com/preparing_river_assault.jpg
+- http://johnmayo.com/preparing_river_assault_small.jpg
+- http://johnmayo.com/present1.jpg
+- http://johnmayo.com/pulling_apc_across_river.jpg
+- http://johnmayo.com/pulling_apc_across_river_small.jpg
+- http://johnmayo.com/raft_docking.jpg
+- http://johnmayo.com/raft_docking_small.jpg
+- http://johnmayo.com/rex_hotel.JPG
+- http://johnmayo.com/rex_hotel_roof.JPG
+- http://johnmayo.com/roof_from_afar.jpg
+- http://johnmayo.com/roof_top_between_the_tress.JPG
+- http://johnmayo.com/row_of_tents_in_mud.jpg
+- http://johnmayo.com/row_of_tents_in_mud_small.jpg
+- http://johnmayo.com/rubber_trees_me.JPG
+- http://johnmayo.com/rubber_trres.JPG
+- http://johnmayo.com/saigon_high_rises.JPG
+- http://johnmayo.com/saigon_river_homes.JPG
+- http://johnmayo.com/saigon_river_homes_2.JPG
+- http://johnmayo.com/satdish2.gif
+- http://johnmayo.com/scan0001_2.jpg
+- http://johnmayo.com/school_children.jpg
+- http://johnmayo.com/school_children_small.jpg
+- http://johnmayo.com/shop_construction.JPG
+- http://johnmayo.com/shops.JPG
+- http://johnmayo.com/shops_5.JPG
+- http://johnmayo.com/shops_to_bearcat.JPG
+- http://johnmayo.com/shos_at_bear_cat_3.JPG
+- http://johnmayo.com/shower_small.jpg
+- http://johnmayo.com/side_of_ship_small.jpg
+- http://johnmayo.com/site_of_one_room_school.jpg
+- http://johnmayo.com/skyline.JPG
+- http://johnmayo.com/slide_small.jpg
+- http://johnmayo.com/snake_and_monkey.JPG
+- http://johnmayo.com/son.JPG
+- http://johnmayo.com/store.JPG
+- http://johnmayo.com/supper_fish_catch.JPG
+- http://johnmayo.com/tank_in_mud_small.jpg
+- http://johnmayo.com/telphon5.gif
+- http://johnmayo.com/tent_w_maildrop_small.jpg
+- http://johnmayo.com/the_roof_3.jpg
+- http://johnmayo.com/the_roof_4.jpg
+- http://johnmayo.com/the_room.JPG
+- http://johnmayo.com/the_wall_small.jpg
+- http://johnmayo.com/tour_boat.JPG
+- http://johnmayo.com/town.JPG
+- http://johnmayo.com/town_1.JPG
+- http://johnmayo.com/town_2.JPG
+- http://johnmayo.com/townspeople_3.JPG
+- http://johnmayo.com/townspoeple_3.JPG
+- http://johnmayo.com/traffic_2.JPG
+- http://johnmayo.com/traffic__5.JPG
+- http://johnmayo.com/tran_and_boat_driver.JPG
+- http://johnmayo.com/tran_and_me_at_bridge.jpg
+- http://johnmayo.com/use.JPG
+- http://johnmayo.com/viet_2nd_home_small.jpg
+- http://johnmayo.com/viet_apc_river.jpg
+- http://johnmayo.com/viet_apc_river_small.jpg
+- http://johnmayo.com/viet_base_camp_dust_small.jpg
+- http://johnmayo.com/viet_bear_cat_small.jpg
+- http://johnmayo.com/viet_bus_depot_with_girls_small.jpg
+- http://johnmayo.com/viet_catholic_school_small.jpg
+- http://johnmayo.com/viet_ducks_in_moat_small.jpg
+- http://johnmayo.com/viet_dusty_road_small.jpg
+- http://johnmayo.com/viet_fishing_boat_small.jpg
+- http://johnmayo.com/viet_home_in_rice_field_small.jpg
+- http://johnmayo.com/viet_martha_raye_small.jpg
+- http://johnmayo.com/viet_me_and_rebel_flag_small.jpg
+- http://johnmayo.com/viet_me_shaving_small.jpg
+- http://johnmayo.com/viet_me_shooting_my_eye_out_small.jpg
+- http://johnmayo.com/viet_on_raft_small.jpg
+- http://johnmayo.com/viet_personnel_officve_small.jpg
+- http://johnmayo.com/viet_raft_at_market_small.jpg
+- http://johnmayo.com/viet_raft_on_riverbank_small.jpg
+- http://johnmayo.com/viet_raft_with_village_along_river_small.jpg
+- http://johnmayo.com/viet_river_assault_2.jpg
+- http://johnmayo.com/viet_river_assault_2_small.jpg
+- http://johnmayo.com/viet_roadbuilding_nam_style_small.jpg
+- http://johnmayo.com/viet_saigon_along_river_small.jpg
+- http://johnmayo.com/viet_sidewalk_stores_small.jpg
+- http://johnmayo.com/vietn_villages_in_base_camp_small.jpg
+- http://johnmayo.com/vietnam_basecamp_small.jpg
+- http://johnmayo.com/vietnam_blown_tree_small.jpg
+- http://johnmayo.com/vietnam_fence_palace_small.jpg
+- http://johnmayo.com/vietnam_hospital_ship_small.jpg
+- http://johnmayo.com/vietnam_latrines_small.jpg
+- http://johnmayo.com/vietnam_me_with_BAR_small.jpg
+- http://johnmayo.com/vietnam_mekong_river_small.jpg
+- http://johnmayo.com/vietnam_river_bank_small.jpg
+- http://johnmayo.com/vietnam_river_village_small.jpg
+- http://johnmayo.com/vietnam_shop_in_cholon_small.jpg
+- http://johnmayo.com/vietnam_tet_apartment.jpg
+- http://johnmayo.com/vietnam_tet_apartment_small.jpg
+- http://johnmayo.com/vietnam_tony_lavarda_small.jpg
+- http://johnmayo.com/vietnam_working_small.jpg
+- http://johnmayo.com/village_at_bridge.jpg
+- http://johnmayo.com/village_bridge.jpg
+- http://johnmayo.com/waitresses.JPG
+- http://johnmayo.com/washington_141.jpg
+- http://johnmayo.com/water_buffalo_in_rice_small.jpg
+- http://johnmayo.com/wiring.JPG
+- http://johnmayo.com/wiring_2.JPG
+- http://johnmayo.com/witness_2.JPG
+- http://johnmayo.com/witness_to_history.JPG
+- http://johnmayo.com/working_in_rice_paddy.JPG

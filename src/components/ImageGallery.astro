@@ -1,0 +1,41 @@
+---
+const { images = [] } = Astro.props;
+---
+
+{
+  images.length > 0 && (
+    <section class="container gallery-wrap">
+      <h2>Image Gallery</h2>
+      <ul class="gallery" aria-label="Page image gallery">
+        {images.map((src) => (
+          <li class="card"><img src={src} alt="Archived photo from johnmayo.com" loading="lazy" decoding="async" /></li>
+        ))}
+      </ul>
+    </section>
+  )
+}
+
+<style>
+  .gallery-wrap {
+    margin-top: var(--space-6);
+  }
+
+  .gallery {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: var(--space-4);
+  }
+
+  li {
+    padding: var(--space-2);
+  }
+
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+</style>

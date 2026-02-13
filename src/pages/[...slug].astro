@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import PageHero from "../components/PageHero.astro";
+import ContentSection from "../components/ContentSection.astro";
+import ImageGallery from "../components/ImageGallery.astro";
+import PageLinks from "../components/PageLinks.astro";
+import data from "../data/pages.json";
+
+export function getStaticPaths() {
+  return data.pages
+    .filter((page) => page.path !== "/")
+    .map((page) => ({
+      params: {
+        slug: page.path.slice(1)
+      },
+      props: {
+        page
+      }
+    }));
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout pageTitle={page.title}>
+  <PageHero title={page.title} excerpt={page.excerpt} />
+  <ContentSection html={page.contentHtml} />
+  <ImageGallery images={page.gallery} />
+  <PageLinks links={page.internalLinks} allPages={data.pages} />
+</BaseLayout>

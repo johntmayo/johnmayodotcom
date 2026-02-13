@@ -1,0 +1,49 @@
+---
+import "../styles/global.css";
+import SiteHeader from "../components/SiteHeader.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+
+import site from "../content/site.json";
+import pageData from "../data/pages.json";
+
+const { pageTitle } = Astro.props;
+
+const navItems = pageData.pages
+  .filter((page) => page.status === 200 && (page.path === "/" || page.path === "/return_to_vietnam.htm" || page.path === "/index1.htm" || page.path === "/opening_day_2009.htm" || page.path === "/before_he_left_for_iraq.htm" || page.path === "/contacting_me.htm"))
+  .map((page) => ({ path: page.path, title: page.title }));
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle ? `${pageTitle} | ${site.siteName}` : site.siteName}</title>
+    <meta name="description" content={site.tagline} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <SiteHeader title={site.siteName} navItems={navItems} />
+    <main id="main-content">
+      <slot />
+    </main>
+    <SiteFooter />
+  </body>
+</html>
+
+<style>
+  .skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+  }
+
+  .skip-link:focus {
+    left: 0.5rem;
+    top: 0.5rem;
+    background: #fff;
+    padding: 0.4rem 0.6rem;
+    border-radius: 6px;
+    z-index: 100;
+  }
+</style>

@@ -1,0 +1,32 @@
+{
+  "startedAt": "2026-02-13T02:01:17.164Z",
+  "totalRequested": 399,
+  "downloaded": 393,
+  "failed": 6,
+  "errors": [
+    {
+      "url": "http://www.its.state.ms.us/et/portal/MSFlags/flags.html",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "http://www.its.state.ms.us/et/portal/MSSymbols/symbols.htm",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "http://www.ls.state.ms.us/htms/cap_info.htm",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "http://www.ls.state.ms.us/htms/billlaw.htm",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "http://mshistory.k12.ms.us/",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "url": "http://www.spiritisup.com/pledgeofallegiance.html",
+      "error": "TypeError: fetch failed"
+    }
+  ]
+}
